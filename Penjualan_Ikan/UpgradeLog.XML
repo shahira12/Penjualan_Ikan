@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Penjualan_Ikan">
+</Property><Property Name="Solution File" Value="E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Penjualan_Ikan.sln">
+</Property><Property Name="User Options File" Value="E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Penjualan_Ikan.suo">
+</Property><Property Name="Date" Value="12 Mei 2016">
+</Property><Property Name="Time" Value="9:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Penjualan_Ikan.sln" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Penjualan_Ikan.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Penjualan_Ikan.suo" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Penjualan_Ikan.suo">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Penjualan_Ikan.vbproj" Description="Project file successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Penjualan_Ikan.vbproj">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Penjualan_Ikan.vbproj.user" Description="Project user file successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Penjualan_Ikan.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Admin.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Admin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Admin.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Admin.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Cetak.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Cetak.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Cetak.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Cetak.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="CrystalReport1.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\CrystalReport1.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Form1.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Form1.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Ikan.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Ikan.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Ikan.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Ikan.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Login.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Login.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Login.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Login.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Menu_Utama.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Menu_Utama.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Menu_Utama.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Menu_Utama.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Module1.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="My Project\Application.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Pembeli.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Pembeli.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Pembeli.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Pembeli.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Struk.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Struk.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Struk.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Struk.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Transaksi.Designer.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Transaksi.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Transaksi.vb" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Transaksi.vb">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="app.config" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="My Project\Application.myapp" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="My Project\Settings.settings" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Admin.resx" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Admin.resx">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Cetak.resx" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Cetak.resx">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="CrystalReport1.rpt" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\CrystalReport1.rpt">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Form1.resx" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Ikan.resx" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Ikan.resx">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Login.resx" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Login.resx">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Menu_Utama.resx" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Menu_Utama.resx">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="My Project\Resources.resx" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Pembeli.resx" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Pembeli.resx">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Struk.resx" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Struk.resx">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Transaksi.resx" Description="File successfully backed up as E:\coba\Aplikasi\Penjualan_Ikan\Penjualan_Ikan\Backup\Transaksi.resx">
+</Event><Event ErrorLevel="0" Project="Penjualan_Ikan" Source="Penjualan_Ikan.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Penjualan_Ikan" Source="Penjualan_Ikan.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Penjualan_Ikan.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Penjualan_Ikan.sln" Description="Converted">
+</Event></UpgradeLog>
